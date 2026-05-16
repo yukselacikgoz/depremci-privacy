@@ -1,0 +1,2 @@
+# depremci-privacy
+privacy-policy
