@@ -25,6 +25,11 @@ Location data is not stored or shared.
 yukselacikgoz@hotmail.com
 
 
+
+
+
+
+
 Depremci Deprem Bildirimci — Gizlilik Politikası
 Son güncelleme: Ocak 2025
 
