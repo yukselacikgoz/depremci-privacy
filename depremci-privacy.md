@@ -2,7 +2,7 @@
 privacy-policy
 
 Depremci Earthquake Reporter — Privacy Policy
-Last updated: January 2025
+Last updated: May 17, 2026
 
 1. Collected Data
 The Earthquake Expert application uses only your device's GPS location to perform earthquake distance calculations.
@@ -31,7 +31,7 @@ yukselacikgoz@hotmail.com
 
 
 Depremci Deprem Bildirimci — Gizlilik Politikası
-Son güncelleme: Ocak 2025
+Son güncelleme: 17 Mayıs 2026
 
 1. Toplanan Veriler
 Depremci uygulaması, deprem mesafe hesaplamalarını 
